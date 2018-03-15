@@ -29,7 +29,3 @@ Or just double-click Keylogger.py[w]
 ```
 rename keylogger.py to keylogger.pyw to run in background for Windows.
 ```
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
